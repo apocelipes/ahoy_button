@@ -23,3 +23,6 @@ pnpm-debug.log*
 
 # venv
 src/ahoy_button_venv
+
+#Electron-builder output
+/dist_electron
